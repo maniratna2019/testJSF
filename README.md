@@ -1,2 +1,2 @@
 # testJSF
-fmy first jsf application
+My First JSF Application
